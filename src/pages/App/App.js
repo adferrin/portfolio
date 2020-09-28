@@ -10,7 +10,7 @@ class App extends Component {
   render () {
     return (
       <div className="App">
-        <header className="header-footer">React Portfolio</header>
+        <header className="header-footer"></header>
           <Switch>
             <Route exact path='/' render={() =>
               <HomePage />

@@ -6,8 +6,6 @@ import './NavBar.css';
 const NavBar = () => {
     return (
         <div className='NavBar'>
-            {/* {nav} */}
-            Nav Bar
             <div>
                 <Link to='/about' className='NavBar-link'>About Me</Link>
                 &nbsp;&nbsp;|&nbsp;&nbsp;

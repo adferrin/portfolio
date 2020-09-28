@@ -4,7 +4,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgba(255, 255, 255, 0.913);
+  background-color: rgb(15, 158, 206);
 }
 
 .App-header {
@@ -16,3 +16,11 @@ body {
   justify-content: center;
   font-size: calc(10px + 2vmin);
 }
+
+
+/* mint
+rgb(41, 163, 165); */
+
+/* nice blueish rgb(39, 142, 173); */
+
+/* other blue rgb(15, 158, 206); */
