@@ -1,0 +1,22 @@
+.HomePage {
+    display: flex;
+    margin-top: 300px;
+    justify-content: center;
+    flex-direction: column;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+
+.logo {
+    display: flex;
+    width: fit-content;
+}
+
+
+.HomePage-controls {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    padding: 10px;
+}
