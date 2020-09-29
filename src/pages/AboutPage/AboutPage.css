@@ -4,5 +4,17 @@
     flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
-    margin-bottom: 50px;
+}
+
+.Logo {
+    align-items: center;
+    justify-content: center;
+}
+
+.NavBar {
+    padding: 1px;
+}
+
+.ListOfSkills {
+    align-items: left;
 }
