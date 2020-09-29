@@ -15,10 +15,12 @@ class AboutPage extends Component {
                 </div>
                 <div className='AboutMe'>
                     <h1>What I'm about</h1>
-                        <p>Here is stuff i'm about</p>
+                        <p>I'm a San Diego based software engineer orginally from Chicago. 
+                            I decided to learn to code after Covid hit and started at General Assembly shortly after. 
+                        </p>
                 </div>
                 <div className='ListOfSkills'>  
-                    <h3>Here's some stuff I can do:</h3>
+                    <h2><strong>Here's some stuff I can do:</strong></h2>
                         <ul>
                             <li>JavaScript</li>
                             <li>Python</li>
